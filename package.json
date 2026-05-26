@@ -1,0 +1,11 @@
+{
+  "name": "celestia-da-light-node",
+  "version": "1.0.0",
+  "description": "Programmatic interface wrapper for Celestia DA blob submission",
+  "main": "submitBlob.js",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.4.5"
+  }
+}
